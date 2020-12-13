@@ -1,0 +1,2 @@
+﻿  CarNum.cpp
+D:\华理\计算机图形学\CarNumber\homework\CarNum.cpp(2,10): fatal error C1083: 无法打开包括文件: “opencv2/imgcodecs.hpp”: No such file or directory
